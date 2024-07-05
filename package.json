@@ -1,0 +1,23 @@
+{
+  "name": "js---asincron-as-y-promesas",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "dependencies": {
+    "bootstrap": "^3.4.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ConchyP/Js---Asincron-as-y-Promesas.git"
+  },
+  "author": "Conchy",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ConchyP/Js---Asincron-as-y-Promesas/issues"
+  },
+  "homepage": "https://github.com/ConchyP/Js---Asincron-as-y-Promesas#readme"
+}

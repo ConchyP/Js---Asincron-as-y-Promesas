@@ -1,0 +1,31 @@
+body {
+    font-family: Arial, sans-serif;
+    margin-left: 15%;
+    margin-right: 15%;
+
+}
+
+table {
+    width: 100%;
+    border-collapse: collapse;
+    margin-top: 20px;
+}
+
+th, td {
+    border: 1px solid;
+    padding: 8px;
+    text-align: justify;
+}
+
+td {
+    padding: 10px;
+}
+
+.title {
+    color:white;
+    text-align: center;
+}
+
+tbody {
+    background-color: #8a8b95;
+}
